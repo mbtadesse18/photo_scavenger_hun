@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.kapwing.com/videos/64193bc08f1dac04145177f4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.veed.io/view/e80d3f8c-4f5f-4348-9f68-bcdbddb452d9?panel=share.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  https://getkap.co/
